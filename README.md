@@ -17,18 +17,18 @@ Then run the app in your phone using the studio
 ## App Screenshots
 
 1. Welcome Page
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/Cover%20Page.jpg)
+![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/Cover%20Page.jpg){width=50%}
 2. Add Your Photo
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/Add%20Page.jpg)
+![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/Add%20Page.jpg){width=50%}
 3. Preview Photo
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/%20Preview%20Page.jpg)
+![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/%20Preview%20Page.jpg){width=50%}
 4. Adding Name to Photo
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/Adding%20Name.jpg)
+![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/Adding%20Name.jpg){width=50%}
 5. View All Actions
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/All%20Actions%20List.jpg)
+![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/All%20Actions%20List.jpg){width=50%}
 6. View All Faces
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/View%20Recognizations.jpg)
+![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/View%20Recognizations.jpg){width=50%}
 7. Delete All Faces
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/Delete%20All%20Recognizations.jpg)
+![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/Delete%20All%20Recognizations.jpg){width=50%}
 8. Developer Mode
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/Developer%20Mode.jpg)
+![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/Developer%20Mode.jpg){width=50%}
