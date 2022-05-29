@@ -17,18 +17,18 @@ Then run the app in your phone using the studio
 ## App Screenshots
 
 1. Welcome Page
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/Cover%20Page.jpg)
+![](https://drive.google.com/file/d/1j8Ul_E-kTdHmlIQKDdPZQ03kUA1bAHOG/view?usp=sharing)
 2. Add Your Photo
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/Add%20Page.jpg)
+![](https://drive.google.com/file/d/1NpUXfTauvVAXDhL0Wn7pj3mUoDUOmj-O/view?usp=sharing)
 3. Preview Photo
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/%20Preview%20Page.jpg)
+![](https://drive.google.com/file/d/15-MhsIgHhLv_ghcNcWTbHAkSNuq2Ihkc/view?usp=sharing)
 4. Adding Name to Photo
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/Adding%20Name.jpg)
+![](https://drive.google.com/file/d/1PQ4w3tseQawGhsmb1rKbzn_xQ0bfIhsx/view?usp=sharing)
 5. View All Actions
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/All%20Actions%20List.jpg)
+![](https://drive.google.com/file/d/1Ds_bz-Hub-2Zfp33EwqYqQXKVQCpSF2F/view?usp=sharing)
 6. View All Faces
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/View%20Recognizations.jpg)
+![](https://drive.google.com/file/d/1r6XedBwfHeZKMai_JSSScwBXLrbme0vI/view?usp=sharing)
 7. Delete All Faces
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/Delete%20All%20Recognizations.jpg)
+![](https://drive.google.com/file/d/1odULT1YDoLgVUbzI40GDHCBwlaRqRO04/view?usp=sharing)
 8. Developer Mode
-![](https://github.com/Vidit02/Face-Recognization-App/blob/master/app/src/main/res/screenshots/Developer%20Mode.jpg)
+![](https://drive.google.com/file/d/1_97t9KgEWOxAG-PhU6hddYI49WPMzgBh/view?usp=sharing)
